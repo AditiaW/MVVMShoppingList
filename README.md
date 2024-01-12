@@ -6,7 +6,7 @@
 
 ## Overview
 
-The ShoppingList App is developed in Kotlin and follows the MVVM architectural pattern. It demonstrates best practices for Android app development, including ViewModel usage, LiveData, and data binding. The app allows users to manage and organize their shopping lists efficiently.
+The ShoppingList App is developed in Kotlin and follows the MVVM architectural pattern. It demonstrates best practices for Android app development, including ViewModel usage, and LiveData. The app allows users to manage and organize their shopping lists efficiently.
 
 ## Tutorial Playlist
 
